@@ -1,5 +1,5 @@
-### Hi there its me Shivansh 👋
-https://99shivansh.github.io/portfolio
+### Hi there its me Shivansh 👋 [Wanna know more about me?](https://99shivansh.github.io/portfolio)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=99shivansh/99shivansh)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=99shivansh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
